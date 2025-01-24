@@ -1,0 +1,4 @@
+ID,Name,VaccinationType,VaccinationDate,Country,DOB,Free or Paid,Age,Days_Since_Last_Consulted
+1,Mike,LMN,2022-05-11,AUS,,,,989.0
+2,Rahul,ABC,2022-03-05,IND,1982-08-13,P,42.0,1056.0
+3,Cristina,ABC,2022-03-12,AUS,1998-03-12,,26.0,1049.0
